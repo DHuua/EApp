@@ -3,4 +3,9 @@
     <string name="choice_your_nfavorite_coffee">Choice your/nFavorite Coffee</string>
     <string name="choice_your_favorite_coffee">Choice your \nFavorite Coffee</string>
     <string name="get_started">Get Started</string>
+    <string name="serch_anything">Serch anything...</string>
+    <string name="popular_coffees">Popular Coffees</string>
+    <string name="cart">Cart</string>
+    <string name="explorer">Explorer</string>
+    <string name="profile">Profile</string>
 </resources>
